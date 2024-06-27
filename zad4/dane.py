@@ -1,0 +1,1 @@
+# Nazwa pliku z danyminazwa_pliku = '/Users/adrianc/PycharmProjects/zad4/wygenerowane_liczby.txt't = []with open(nazwa_pliku, 'r') as plik:    for i, linia in int(plik)-1:        t[i] = int(linia)for liczba in t:    print(liczba)
