@@ -1,0 +1,5 @@
+1 dodac 1
+6 odjac 5
+3 mnoz 1
+21 dziel 3
+22 kappa 5
